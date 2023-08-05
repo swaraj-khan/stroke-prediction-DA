@@ -27,8 +27,6 @@ The **Stroke Prediction Data Analysis** repository is your gateway to exploring 
 Our quest is to predict strokes before they strike! We're arming ourselves with the potent tools of data analysis and machine learning to decipher the factors that contribute to strokes. Together, we shall harness this knowledge to save lives and illuminate the path to better health.
 
 
-https://github.com/swaraj-khan/stroke-prediction-DA/assets/94361805/31ad322f-5fe0-47a4-ba4e-a9d6585a8b9e
-
 🚀 Embark on a journey of health and data magic! Click the link and unlock the secrets of stroke prediction in our captivating project. Your curiosity awaits: https://stroke-prediction-da-myt6ulkpg383vrlbpka8yh.streamlit.app/ 🧙‍♂️🔮
 
 ### Dataset
@@ -44,3 +42,5 @@ With our insights at hand, it's time to summon the powers of machine learning. W
 
 ### Results & Visual Enchantment
 The culmination of our efforts shall be a symphony of results and visual enchantment. Behold the confetti of accuracy scores, the symmetrical dance of confusion matrices, and the serene beauty of ROC curves. Prepare your senses to be dazzled!
+
+https://github.com/swaraj-khan/stroke-prediction-DA/assets/94361805/31ad322f-5fe0-47a4-ba4e-a9d6585a8b9e
