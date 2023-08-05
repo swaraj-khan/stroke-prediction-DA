@@ -20,7 +20,6 @@ The **Stroke Prediction Data Analysis** repository is your gateway to exploring 
 - 📊 [Exploratory Data Artistry](#exploratory-data-artistry)
 - 🧙‍♂️ [Model Conjuring](#model-conjuring)
 - 🌟 [Results & Visual Enchantment](#results--visual-enchantment)
-- 🤝 [Contributing](#contributing)
 - 📬 [Contact Us](#contact-us)
 
 ### Objective
